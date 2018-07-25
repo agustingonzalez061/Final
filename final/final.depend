@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1531272646 source:d:\users\stormer\desktop\final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1531272613 d:\users\stormer\desktop\final\funciones.h
+
+1514140574 source:d:\users\stormer\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1531164420 source:f:\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528722720 f:\final\arraylist.h
+
+1531315502 source:f:\final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"datos.h"
+
+1531313964 f:\final\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1531317836 source:f:\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"datos.h"
+
+1531318264 source:f:\final\datos.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"datos.h"
+
+1531317800 f:\final\datos.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1531164420 source:c:\users\agust\desktop\final\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1528722720 c:\users\agust\desktop\final\arraylist.h
+
+1532483525 source:c:\users\agust\desktop\final\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"datos.h"
+
+1532482413 c:\users\agust\desktop\final\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1532042926 c:\users\agust\desktop\final\datos.h
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1532482418 source:c:\users\agust\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"datos.h"
+
+1532476638 source:c:\users\agust\desktop\final\datos.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"datos.h"
+
